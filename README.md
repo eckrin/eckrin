@@ -58,6 +58,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=eckrin&show_icons=true">  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dubaihuadeweixiao)](https://solved.ac/dubaihuadeweixiao/)
 
+<br/>
+<br/>
+
 ## Contacts
-* eckrin.dev@gmail.com
-* felix.yourssu@gmail.com
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://eckrin.tistory.com/)](https://eckrin.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:eckrin.dev@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Gmail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:felix.urssu@gmail.com)
