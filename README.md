@@ -58,7 +58,7 @@
 <br/>
 <br/>
 
-## Skills
+## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=eckrin&show_icons=true">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dubaihuadeweixiao)](https://solved.ac/dubaihuadeweixiao/)
