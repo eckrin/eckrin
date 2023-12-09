@@ -1,7 +1,19 @@
-## 김영빈 | Backend Developer
-최근 클린 코드, 다양한 디자인 패턴과 인프라 구축에 흥미를 느끼고 공부하고 있습니다.
+## 김영빈
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feckrin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+  클린 코드, 다양한 디자인 패턴과 인프라 구축에 흥미를 느끼고 공부하고 있습니다.
 <br/>
 <br/>
+## Experiences
+* YourSSU Backend Developer (2022.10 ~ ) <a href = "https://play.google.com/store/apps/details?id=com.yourssu.soomsil&hl=ko-KR"> <img src="https://img.shields.io/badge/google play-34A853?style=for-the-badge&logo=google play&logoColor=white"> </a>
+* 2022 IT대학 소프트웨어공모전 학장상 (2022.07 ~ 2022.08)
+* 2023 IT대학 소프트웨어공모전 금상 (2023.07 ~ 2023.08)
+* 숭실대학교 Capstone 공모전 장려상 (2023.09)
+* 한국대학생IT경영학회 KUSITMS (2023.09 ~ 2023.11)
+* 대학생 현장실습 인턴 [SKT - ifland Studio] (2023.09 ~ 2023.12)
+
+<br/>
+<br/>
+
 ## Stacks
 
 ### BackEnd
@@ -32,3 +44,20 @@
 ### Else have experience in..
 <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+
+<br/>
+<br/>
+
+## Recommends for Developers
+* Clean Architecture - Robert C.Martin
+* 오브젝트 - 조용호
+* 가상 면접 사례로 배우는 대규모 시스템 설계 기초 - Alex Xu
+
+<br/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=eckrin&show_icons=true">  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dubaihuadeweixiao)](https://solved.ac/dubaihuadeweixiao/)
+
+## Contacts
+* eckrin.dev@gmail.com
+* felix.yourssu@gmail.com
