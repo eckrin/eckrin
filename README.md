@@ -1,7 +1,12 @@
 ## 김영빈  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feckrin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://eckrin.tistory.com/)](https://eckrin.tistory.com/)
- 
   클린 코드, 다양한 디자인 패턴과 인프라 구축에 흥미를 느끼고 공부하고 있습니다.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feckrin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://eckrin.tistory.com/)](https://eckrin.tistory.com/)
+
+<img src="https://github-readme-stats.vercel.app/api?username=eckrin&show_icons=true">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dubaihuadeweixiao)](https://solved.ac/dubaihuadeweixiao/)
+ 
 <br/>
 <br/>
 
@@ -55,14 +60,6 @@
 * Clean Architecture - Robert C.Martin
 * 오브젝트 - 조용호
 * 가상 면접 사례로 배우는 대규모 시스템 설계 기초 - Alex Xu
-
-<br/>
-<br/>
-
-## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=eckrin&show_icons=true">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dubaihuadeweixiao)](https://solved.ac/dubaihuadeweixiao/)
 
 <br/>
 <br/>
