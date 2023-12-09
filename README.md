@@ -67,4 +67,3 @@
 
 ## Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:eckrin.dev@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:felix.urssu@gmail.com)
