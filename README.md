@@ -1,8 +1,8 @@
-## 김영빈
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feckrin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+## 김영빈 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feckrin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://eckrin.tistory.com/)](https://eckrin.tistory.com/)
+ 
   클린 코드, 다양한 디자인 패턴과 인프라 구축에 흥미를 느끼고 공부하고 있습니다.
 <br/>
-<br/>
+
 ## Experiences
 * YourSSU Backend Developer (2022.10 ~ ) <a href = "https://play.google.com/store/apps/details?id=com.yourssu.soomsil&hl=ko-KR"> <img src="https://img.shields.io/badge/google play-34A853?style=for-the-badge&logo=google play&logoColor=white"> </a>
 * 2022 IT대학 소프트웨어공모전 학장상 (2022.07 ~ 2022.08)
@@ -64,7 +64,6 @@
 <br/>
 <br/>
 
-## Blog, Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://eckrin.tistory.com/)](https://eckrin.tistory.com/)
+## Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:eckrin.dev@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Gmail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:felix.urssu@gmail.com)
