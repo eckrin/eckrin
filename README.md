@@ -2,10 +2,6 @@
   클린 코드, 다양한 디자인 패턴과 인프라 구축에 흥미를 느끼고 공부하고 있습니다.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feckrin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://eckrin.tistory.com/)](https://eckrin.tistory.com/)
-
-<img src="https://github-readme-stats.vercel.app/api?username=eckrin&show_icons=true">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dubaihuadeweixiao)](https://solved.ac/dubaihuadeweixiao/)
  
 <br/>
 <br/>
@@ -63,6 +59,11 @@
 
 <br/>
 <br/>
+
+## Stats
+<img src="https://github-readme-stats.vercel.app/api?username=eckrin&show_icons=true">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dubaihuadeweixiao)](https://solved.ac/dubaihuadeweixiao/)
 
 ## Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:eckrin.dev@gmail.com)
