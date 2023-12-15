@@ -20,34 +20,34 @@
 ## Stacks
 
 ### BackEnd
-<img src="https://img.shields.io/badge/java-E34F26?style=for-the-badge&logo=Joplin&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-<img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=spring security&logoColor=white">  
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-<img src="https://img.shields.io/badge/spring data jpa-6DB33F?style=for-the-badge&logo=spring data jpa&logoColor=white">
-<img src="https://img.shields.io/badge/querydsl-0099E5?style=for-the-badge&logo=querydsl&logoColor=white">
-<img src="https://img.shields.io/badge/mybatis-000000?style=for-the-badge&logo=mybatis&logoColor=white">
+<img src="https://img.shields.io/badge/java-E34F26?style=flat-square&logo=Joplin&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> 
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white"> 
+<img src="https://img.shields.io/badge/spring security-6DB33F?style=flat-square&logo=spring security&logoColor=white">  
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/spring data jpa-6DB33F?style=flat-square&logo=spring data jpa&logoColor=white">
+<img src="https://img.shields.io/badge/querydsl-0099E5?style=flat-square&logo=querydsl&logoColor=white">
+<img src="https://img.shields.io/badge/mybatis-000000?style=flat-square&logo=mybatis&logoColor=white">
   
 ### AWS, Infra
-<img src="https://img.shields.io/badge/docker-2B579A?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=github actions&logoColor=white">  
-<img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
-<img src="https://img.shields.io/badge/amazon rds-2088FF?style=for-the-badge&logo=amazon rds&logoColor=white">
-<img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white">
-<img src="https://img.shields.io/badge/amazon elasticache-2088FF?style=for-the-badge&logo=unsplash&logoColor=white">  
-<img src="https://img.shields.io/badge/microsoft azure-0078D4?style=for-the-badge&logo=microsoft azure&logoColor=white"> 
+<img src="https://img.shields.io/badge/docker-2B579A?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/github actions-2088FF?style=flat-square&logo=github actions&logoColor=white">  
+<img src="https://img.shields.io/badge/amazon ec2-FF9900?style=flat-square&logo=amazon ec2&logoColor=white">
+<img src="https://img.shields.io/badge/amazon rds-2088FF?style=flat-square&logo=amazon rds&logoColor=white">
+<img src="https://img.shields.io/badge/amazon s3-569A31?style=flat-square&logo=amazon s3&logoColor=white">
+<img src="https://img.shields.io/badge/amazon elasticache-2088FF?style=flat-square&logo=unsplash&logoColor=white">  
+<img src="https://img.shields.io/badge/microsoft azure-0078D4?style=flat-square&logo=microsoft azure&logoColor=white"> 
 
 ### Linux
-<img src="https://img.shields.io/badge/C-033963?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/C-033963?style=flat-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white">
 
 ### Collaboration Tools
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white">
 
 ### Else have experience in..
-<img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/android studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 
 <br/>
 <br/>
