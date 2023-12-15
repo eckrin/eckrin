@@ -20,7 +20,7 @@
 ## Stacks
 
 ### BackEnd
-<img src="https://img.shields.io/badge/java-E34F26?style=flat-square&logo=Joplin&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> 
+<img src="https://img.shields.io/badge/java-E34F26?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white"> 
 <img src="https://img.shields.io/badge/spring security-6DB33F?style=flat-square&logo=spring security&logoColor=white">  
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
