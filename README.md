@@ -8,7 +8,7 @@
 <br/>
 
 ## Experiences
-* YourSSU Backend Developer (2022.10 ~ ) <a href = "https://play.google.com/store/apps/details?id=com.yourssu.soomsil&hl=ko-KR"> <img src="https://img.shields.io/badge/google play-34A853?style=flat-square&logo=google play&logoColor=white"> </a> <a href = "https://apps.apple.com/kr/app/%EC%88%A8%EC%89%B4%EB%95%8C/id1626690112"> <img src="https://img.shields.io/badge/app store-0DBDFF?style=flat-square&logo=app store&logoColor=white"> </a>
+* <a href = "https://yourssu.com"> YourSSU </a> Backend Developer (2022.10 ~ ) <a href = "https://play.google.com/store/apps/details?id=com.yourssu.soomsil&hl=ko-KR"> <img src="https://img.shields.io/badge/google play-34A853?style=flat-square&logo=google play&logoColor=white"> </a> <a href = "https://apps.apple.com/kr/app/%EC%88%A8%EC%89%B4%EB%95%8C/id1626690112"> <img src="https://img.shields.io/badge/app store-0DBDFF?style=flat-square&logo=app store&logoColor=white"> </a>
 * 2022 IT대학 소프트웨어공모전 학장상 (2022.07 ~ 2022.08)
 * 2023 IT대학 소프트웨어공모전 금상 (2023.07 ~ 2023.08)
 * 숭실대학교 Capstone 공모전 장려상 (2023.09)
