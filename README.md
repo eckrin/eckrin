@@ -15,6 +15,7 @@
 * 한국대학생IT경영학회 <a href = "https://kusitms.com"> KUSITMS</a> 백엔드팀 (2023.09 ~ 2023.12)
 * 벤처스타트업 아카데미 SW경진대회 최우수상 (2023.12)
 * 대학생 현장실습 인턴 [SKT - ifland Studio] (2023.09 ~ 2023.12)
+* 현대자동차그룹 Softeer (2024.07 ~ 2024.08)
 
 <br/>
 <br/>
@@ -59,6 +60,11 @@
 * Clean Architecture - Robert C.Martin
 * 오브젝트 - 조용호
 * 가상 면접 사례로 배우는 대규모 시스템 설계 기초 - Alex Xu
+
+
+## Languages
+* English - TOEIC 905
+* Chinese - HSK III
 
 <br/>
 <br/>
