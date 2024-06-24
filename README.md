@@ -18,7 +18,6 @@
 * 현대자동차그룹 Softeer (2024.07 ~ 2024.08)
 
 <br/>
-<br/>
 
 ## Stacks
 
@@ -54,19 +53,18 @@
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 
 <br/>
-<br/>
 
 ## Nowadays I'm Studying..
 * Clean Architecture - Robert C.Martin
 * 오브젝트 - 조용호
 * 가상 면접 사례로 배우는 대규모 시스템 설계 기초 - Alex Xu
 
+<br/>
 
 ## Languages
 * English - TOEIC 905
-* Chinese - HSK III
+* Chinese - HSK level III  
 
-<br/>
 <br/>
 
 ## Stats
