@@ -56,7 +56,7 @@
 
 ## Nowadays I'm Studying..
 * Clean Architecture - Robert C.Martin
-* 오브젝트 - 조용호
+* 오브젝트 - 조영호
 * 가상 면접 사례로 배우는 대규모 시스템 설계 기초 - Alex Xu
 * 만들면서 배우는 클린 아키텍처 - Tom Hombergs
 
