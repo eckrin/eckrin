@@ -14,8 +14,8 @@
 * 숭실대학교 Capstone 공모전 장려상 (2023.09)
 * 한국대학생IT경영학회 <a href = "https://kusitms.com"> KUSITMS</a> 백엔드팀 (2023.09 ~ 2023.12)
 * 벤처스타트업 아카데미 SW경진대회 최우수상 (2023.12)
-* 대학생 현장실습 인턴 [SKT - ifland Studio] (2023.09 ~ 2023.12)
-* 현대자동차그룹 Softeer 우수상 (2024.07 ~ 2024.08)
+* 대학생 현장실습 인턴 [SKT - ifland Studio] (2023.09 ~ 2023.12) <a href = "https://play.google.com/store/apps/details?id=com.skt.treal.jumpvrm&hl=ko"> <img src="https://img.shields.io/badge/google play-34A853?style=flat-square&logo=google play&logoColor=white"> </a>
+* 현대자동차그룹 <a href = "https://softeerbootcamp.hyundaimotorgroup.com">Softeer</a> 우수상 (2024.07 ~ 2024.08)
 
 <br/>
 
