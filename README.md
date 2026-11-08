@@ -1,8 +1,8 @@
 ## Tech Stack
 
-- development with a focus on multiple object-oriented design patterns.
+- Development with a focus on multiple object-oriented design patterns.
 - Comprehensive experience in the Spring Boot ecosystem with Java/Kotlin
-- Developing a scalable data pipeline worldwide using Go
+- Developing a scalable data pipeline worldwide using Apache Kafka/Flink
 - Database technologies including ORM
 - Infrastructure technologies including k8s and Jenkins
 - Experience working with various cloud platforms, including AWS and Azure
@@ -17,12 +17,13 @@
 * <a href = "https://yourssu.com"> YourSSU </a> Backend Developer (2022.10 ~ ) <a href = "https://play.google.com/store/apps/details?id=com.yourssu.soomsil&hl=ko-KR"> <img src="https://img.shields.io/badge/google%20play-34A853?style=flat-square&logo=googleplay&logoColor=white"> </a> <a href = "https://apps.apple.com/kr/app/%EC%88%A8%EC%89%B4%EB%95%8C/id1626690112"> <img src="https://img.shields.io/badge/app%20store-0DBDFF?style=flat-square&logo=app-store&logoColor=white"> </a>
 * 2022 IT대학 소프트웨어공모전 학장상 (2022.07 ~ 2022.08)
 * 2023 IT대학 소프트웨어공모전 금상 (2023.07 ~ 2023.08)
-* 숭실대학교 Capstone 공모전 장려상 (2023.09)
+* Capstone 공모전 장려상 (2023.09)
 * 한국대학생IT경영학회 <a href = "https://kusitms.com"> KUSITMS</a> 백엔드팀 (2023.09 ~ 2023.12)
 * 벤처스타트업 아카데미 SW경진대회 최우수상 (2023.12)
 * 대학생 현장실습 인턴 [SKT - ifland Studio] (2023.09 ~ 2023.12) <a href = "https://play.google.com/store/apps/details?id=com.skt.treal.jumpvrm&hl=ko"> <img src="https://img.shields.io/badge/google%20play-34A853?style=flat-square&logo=googleplay&logoColor=white"> </a>
 * 현대자동차그룹 <a href = "https://softeerbootcamp.hyundaimotorgroup.com">Softeer</a> 우수상 (2024.07 ~ 2024.08)
 * Hyundai Motor Group ICT Headquarters (2024.12 ~ )
+* <a href = "https://dddstudy.kr">DDD</a> BackEnd Developer (2026.11 ~ )
 
 <br/>
 
